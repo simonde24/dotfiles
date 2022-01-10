@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gh api simon.desplan@gmail.com
-	name = Desplan Simon
+	email = simon.desplan@gmail.com
+	name = desplan simonn
